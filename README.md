@@ -1,6 +1,8 @@
 # Ionic-Vue-template
 
-I made this project to serve as my starter template for Laurea course R0334-3003 Introduction to Mobile App Design and Development. It is based on Ionic Vue beta, and in this project I have done all the necessary steps to get Ionic running with Vue. I also included Vuetify to bring more features to the project on top of Ionic framework.
+I made this project to serve as a starter template for my Laurea course R0334-3003 Introduction to Mobile App Design and Development. It is based on Ionic Vue beta, and in this project I have done all the necessary steps to get Ionic running with Vue. I also included Vuetify to bring more features to the project on top of Ionic framework.
+
+Live demo here: http://ionic-vue-template.herokuapp.com/
 
 ## Project setup
 ```
