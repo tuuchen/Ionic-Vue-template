@@ -1,4 +1,6 @@
-# my-vue-app
+# Ionic-Vue-skeleton
+
+I made this skeleton project to serve as my starter template for Laurea course R0334-3003 Introduction to Mobile App Design and Development. It is based on Ionic Vue beta, and in this project I have done all the necessary steps to get Ionic running with Vue. I also included Vuetify to bring more features to the project on top of Ionic framework.
 
 ## Project setup
 ```
